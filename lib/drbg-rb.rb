@@ -2,7 +2,7 @@ module DRBG
   
   require 'openssl'
   
-  require_relative 'drbg-rb/version'
-  require_relative 'drbg-rb/hmac'
-
+  require 'drbg-rb/version'
+  require 'drbg-rb/hmac'
+  
 end
